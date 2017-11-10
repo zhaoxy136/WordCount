@@ -1,6 +1,2 @@
 test git dif
-<<<<<<< HEAD
-this is changes on dev
-=======
-this is changes on dev
->>>>>>> dev
+test2 on master
